@@ -1,0 +1,1 @@
+# NextJS Auth0 Serverless application Template
